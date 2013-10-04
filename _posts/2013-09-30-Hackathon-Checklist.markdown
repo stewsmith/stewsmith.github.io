@@ -21,6 +21,7 @@ __Clothing__
 - 5 pairs of socks
 - Pants you are wearing now
 - Sweatshirt
+- Gym Shorts
 - Slippers
 
 __Hygiene__
