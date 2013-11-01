@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Where Do I Start with Programming?"
+title:  "Where Do I Start?"
 date:   2013-10-30 11:26:00
 categories: jekyll update
 ---
