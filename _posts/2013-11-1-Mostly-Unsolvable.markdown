@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mostly Unsolvable"
+comments: true
 date:   2013-11-01 13:00:00
 categories: jekyll update
 ---
@@ -13,7 +14,7 @@ First, what are programs?  Once compiled, programs are actually just binary stri
 be interpreted as a natural number.  Therefore, every program can be represented as an integer.
 
 Let's compare this to a decision problem.  A decision problem takes an input, runs an algorithm, and gives a yes
-or no as an output.  It can take any number as an input and output yes (1) or no (0).  We can put it in a table
+or no as an output.  It can take any number as an input and outputs yes (1) or no (0).  We can put it in a table
 to see what that looks like when we do it for every number.
 
 0 => 0  
