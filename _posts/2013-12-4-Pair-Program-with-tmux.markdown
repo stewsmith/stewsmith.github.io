@@ -41,7 +41,7 @@ Ed and Ian want to pair program.
 
 
 Now Ian and Ed share a screen and can see what the other
-is typing and make changes. Try it!
+is typing and make changes. BAM.
 
 Thanks to [Ed Zane](https://twitter.com/eddiezane) for
 showing me this.
