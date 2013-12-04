@@ -14,26 +14,30 @@ live updates.
 
 Ed and Ian want to pair program.
 <ol>
-<li>  Ed ssh's into a machine
+<li>  Ed ssh's into a machine </li>
 <li>  Ed creates a user for Ian
     {% highlight ruby %}
         ed@machine:~$ adduser ian
     {% endhighlight %}
+</li>
 <li> Ed starts a tmux session
     {% highlight ruby %}
         ed@machine:~$ tmux
     {% endhighlight %}
-<li> Ian ssh's into the machine
+</li>
+<li> Ian ssh's into the machine </li>
 <li> Ian changes users to become Ed
     {% highlight ruby %}
         ian@machine:~$ su ed
     {% endhighlight %}
+</li>
 <li> Ian attaches to ed's tmux session
     (note Ian's prompt will display 'ed')
     {% highlight ruby %}
         ed@machine:~$ tmux attach
     {% endhighlight %}
-<ol>
+</li>
+</ol>
 
 
 Now Ian and Ed share a screen and can see what the other
