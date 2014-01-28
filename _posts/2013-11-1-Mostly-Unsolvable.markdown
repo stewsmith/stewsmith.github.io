@@ -26,8 +26,8 @@ to see what that looks like when we do it for every number.
 
 Therefore, decision problems are represented by an infinite bit string, and programs are represented by a finite
 bit string.  We can compare this to the real numbers and the natural numbers, respectively.  Real numbers are
-[uncountable](http://en.wikipedia.org/wiki/Uncountable_set) and natural numbers are
-[countable](http://en.wikipedia.org/wiki/Countable_set).  In other words, there are many, many more decision problems
+[uncountably infinite](http://en.wikipedia.org/wiki/Uncountable_set) and natural numbers are
+[countably infinite](http://en.wikipedia.org/wiki/Countable_set).  In other words, there are many, many more decision problems
 than there are programs to solve them.
 
 I learned this from watching the [Computational Complexity lecture by Erik Demaine](http://www.youtube.com/watch?v=moPtwq_cVH8).
