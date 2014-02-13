@@ -135,8 +135,8 @@ ul.posts span {
 }
 
 .post ul {
-  margin-left: 1.35em;
   list-style-type:none;
+  padding-left: 2.5em;
 }
 
 .post ol {
