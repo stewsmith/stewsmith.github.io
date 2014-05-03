@@ -14,15 +14,15 @@ Notebook
 -----------
 Are you really going to remember that obscure command a week from now? The answer is no. Get a notebook (I prefer unlined)
 and write down anything new to you. That way you can ask your team members when you really need help, instead of bugging
-them the syntax for restarting the server.
+them for the syntax for restarting the server.
 
 
 Chatroom for interns
 -----------
-Office chat rooms are intimidating. If you’re like me, you are probably trying not to look like an
-idiot in front of your co-workers. You won’t ask all the questions you really should in the chatroom for fear
-of having documented proof your your idiocy. When you make an intern chat room, you can ask questions freely, and
-bond with your fellow interns more. If one doesn’t exist already, go ahead and create one!
+Office chat rooms are intimidating. If you’re like me, you are probably trying not to bad
+in front of your co-workers. You won’t ask all the questions you really should in the chatroom for fear
+of having documented proof of your idiocy. When you make an intern chat room, you can ask questions freely, and
+bond with your fellow interns. If one doesn’t exist already, go ahead and create one!
 
 
 Online dotfiles
