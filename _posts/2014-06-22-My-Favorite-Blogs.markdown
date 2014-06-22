@@ -24,8 +24,7 @@ He also [takes notes](http://sivers.org/book) on books that he reads.
 [Math ∩ Programming](http://jeremykun.com/)
 -----------
 This blog is all about cool, creative math. It has everything from graph coloring to Turing machines to probability theory.
-If you don't have exposure to a subject, Math ∩ Programming also has a series of fantastic [primers](http://jeremykun.com/primers/)
-on a series of topics.
+If you don't have exposure to a subject, Math ∩ Programming also has a series of fantastic [primers](http://jeremykun.com/primers/).
 
 [Unschooled](http://unschooled.org/)
 -----------
@@ -34,7 +33,7 @@ Nicholas Bergson-Shilcock is one of the founders of Hacker School. I particularl
 
 [Philip J. Guo](http://pgbovine.net/)
 -----------
-Thoughtful Writings about programming with an academic slant. Check out these posts on
+Thoughtful writings about programming with an academic slant. Check out these posts on
 [tech privilege](http://pgbovine.net/tech-privilege.htm),
 [interviewing tips](http://pgbovine.net/programming-interview-tips.htm),
 and [productivity tips](http://pgbovine.net/productivity-tips.htm).
@@ -42,4 +41,4 @@ and [productivity tips](http://pgbovine.net/productivity-tips.htm).
 [Peter Norvig](http://norvig.com/)
 -----------
 The AI guy. His post ["Teach Yourself Programming in Ten Years"](http://norvig.com/21-days.html) is a classic.
-Another great one is ["Solving Every Sudoku Puzzle"](http://norvig.com/sudoku.html)
+Another great one is ["Solving Every Sudoku Puzzle"](http://norvig.com/sudoku.html).
