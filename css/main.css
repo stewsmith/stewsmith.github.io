@@ -133,6 +133,17 @@ ul.posts span {
   padding: 0 .4em;
 }
 
+.post h1 {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.post img {
+  padding: 20px;
+  display: block;
+
+}
+
 .post ul {
   list-style-type:none;
   padding-left: 2.5em;
@@ -144,6 +155,7 @@ ul.posts span {
 }
 
 .post code {
+  font-size: 15px;
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
