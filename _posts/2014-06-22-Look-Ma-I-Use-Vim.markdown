@@ -36,14 +36,13 @@ This one is super crazy. `Ctrl-v` gets you into it, and your cursor becomes a hu
 on that area.
 ![alt text](/images/visual_block.gif "Visual Block up in this shit")
 
-
 # Shift-I
 Use this with Visual Block to make the same change on multiple lines. Check out the gif. After making my visual block selection,
 I press `Shift i` and my change is repeated everywhere the block is.
-![alt text](/images/shift_i.gif "Visual Block up in this shit")
+![alt text](/images/shift_i.gif "Shift i")
 
 # Recording Macros
-Macros are like a more precise dot operator. To use: `q[letter]` starts recording. You then make any changes and your keystrokes
-are recorded. Using `0` and `f` work great with macros. In the gif I press `qq` to start recording on the q letter. My keystrokes are
-`0 f , D`. I then press `q` to stop recording and reuse that macro two lines below.
-![alt text](/images/macro.gif "Visual Block up in this shit")
+Macros are like a more precise dot operator. To use: `q[letter]` starts recording. Your keystrokes are then recorded until you press
+`q` again. Using `0` and `f` work great with macros. In the gif I press `qq` to start recording on the q letter. My keystrokes are
+`0 f , D`. I then press `q` to stop recording and reuse that macro again 5 lines below.
+![alt text](/images/macro.gif "Recording Macros")

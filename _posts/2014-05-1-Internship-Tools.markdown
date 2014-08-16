@@ -7,7 +7,7 @@ fenced_code_blocks: false
 categories: jekyll update
 ---
 
-The following are tools and tips that you can use to be a better software writing intern.
+The following are tools and tips that you can use to be a better software engineering intern.
 
 
 Notebook
@@ -19,7 +19,7 @@ them for the syntax for restarting the server.
 
 Chatroom for interns
 -----------
-Office chat rooms are intimidating. If you’re like me, you are probably trying not to bad
+Office chat rooms are intimidating. If you’re like me, you are probably trying not to look bad
 in front of your co-workers. You won’t ask all the questions you really should in the chatroom for fear
 of having documented proof of your idiocy. When you make an intern chat room, you can ask questions freely, and
 bond with your fellow interns. If one doesn’t exist already, go ahead and create one!
