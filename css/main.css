@@ -175,3 +175,11 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+blockquote {
+  margin-left: 25px;
+}
+
+blockquote p{
+  margin: 0.5em;
+}
